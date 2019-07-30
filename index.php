@@ -1,71 +1,110 @@
-<?php $list = $arr = [
-    [
-        "title" => "Grandmother Asli",
-        "authors" => "Amalya, Armen",
-        "url" => "",
-        "img" => "landscape.jpg",
-        "description" => ""],
-    [
-        "title" => "Library Without Readers",
-        "authors" => "Hasmik, Zhanna, Aksana",
-        "url" => "",
-        "img" => "landscape.jpg",
-        "description" => ""],
-    [
-        "title" => "My Phone",
-        "authors" => "Vioeleta",
-        "url" => "",
-        "img" => "landscape.jpg",
-        "description" => ""],
-    [
-        "title" => "Iron Ladies /Migration/",
-        "authors" => "Varduhi",
-        "url" => "",
-        "img" => "landscape.jpg",
-        "description" => ""],
-    [
-        "title" => "On His Own (Gym)",
-        "authors" => "Nazeli, Artyom, Shaliko",
-        "url" => "",
-        "img" => "landscape.jpg",
-        "description" => ""],
-    [
-        "title" => "Beekeeper Woman",
-        "authors" => "Veronika",
-        "url" => "",
-        "img" => "landscape.jpg",
-        "description" => ""],
+<?php
+$list = $arr = [
     [
         "title" => "My First Salary",
-        "authors" => "Karen",
-        "url" => "",
-        "img" => "landscape.jpg",
-        "description" => ""],
+        "authors" => "Karen Shaybekyan",
+        "mentor" => "Done",
+        "url" => "https://readymag.com/u90183317/1465371/2",
+        "image" => "p1160286.jpg"],
+    [
+        "title" => "Iron Ladies ",
+        "authors" => "Varduhi Kurghinyan",
+        "mentor" => "Done",
+        "url" => "https://spark.adobe.com/page/1d8eb9a5-1f19-4687-b038-cce093fddcaa/",
+        "image" => "7702.jpg"],
+    [
+        "title" => "Woman With a Name of a Flower",
+        "authors" => "Lilit Karakhanyan, Hasmik Avagyan, Zhanna Chogandaryan",
+        "mentor" => "Done",
+        "url" => "https://spark.adobe.com/page/AkEl9j4A5IG2F/",
+        "image" => "9679.jpg"],
+    [
+        "title" => "My Phone",
+        "authors" => "Violetta Sargsyan",
+        "mentor" => "Done",
+        "url" => "https://spark.adobe.com/page/M6uUXlMHdo7U7/",
+        "image" => "677.jpg"],
+    [
+        "title" => "Smoking ",
+        "authors" => "Eldar",
+        "mentor" => "Done                      ",
+        "url" => "https://spark.adobe.com/page/rPs09VBxgCzt6"],
     [
         "title" => "The Price of Water",
-        "authors" => "Sevak",
-        "url" => "",
-        "img" => "landscape.jpg",
-        "description" => ""],
+        "authors" => "Sevak Gabrielyan",
+        "mentor" => "Done",
+        "url" => "https://spark.adobe.com/page/VZRrp88ARJHgv",
+        "image" => "3954.jpg"],
     [
-        "title" => "Grandfather of Ashkhen",
-        "authors" => "Ashkhen",
-        "url" => "",
-        "img" => "landscape.jpg",
-        "description" => ""],
+        "title" => "Grandmother Asli",
+        "authors" => "Amalya Mgdesyan, Armen Savoyan",
+        "mentor" => "Done",
+        "url" => "https://spark.adobe.com/page/yyRAd4L9Q5Tyl",
+        "image" => "5677.png"],
     [
-        "title" => "Woman With a Name of Flower",
-        "authors" => "Lilit, Hasmik, Zhanna",
-        "url" => "",
-        "img" => "landscape.jpg",
-        "description" => ""],
+        "title" => "Power of Hands (only video)",
+        "authors" => "Ashkhen Khachatryan",
+        "mentor" => "Done",
+        "url" => "https://www.youtube.com/watch?reload=9&v=iTv6vv51rdA&feature=youtu.be",
+        "image" => "power-of-hand.jpg"],
+    [
+        "title" => "Library Without Readers",
+        "authors" => "Hasmik Avagyan, Zhanna Chogandaryan, Aksana Gigolyan",
+        "mentor" => "Done",
+        "image" => "671.jpg"],
+    [
+        "title" => "On His Own ",
+        "authors" => "Nazeli Khachatryan, Artyom Nalbandyan, Shaliko Nersisyan",
+        "mentor" => "Taguhi",
+        "image" => "0400.jpg"],
+    [
+        "title" => "The Beekeeper",
+        "authors" => "Veronika Tumasyan",
+        "mentor" => "Ani",
+        "image" => "the-bee-keeper.jpg"],
     [
         "title" => "Class minus girls",
-        "authors" => "",
-        "url" => "",
-        "img" => "landscape.jpg",
-        "description" => ""]
-];
+        "authors" => "Namig, Amil, Nicat",
+        "mentor" => "Not yet  "],
+    [
+        "title" => "Garbage ",
+        "authors" => "Kenan and Senan",
+        "mentor" => "Done "],
+    [
+        "title" => "Early marriage ",
+        "authors" => "Gulgun",
+        "mentor" => "Not yet (in a hour) "],
+    [
+        "title" => "Vanising trees",
+        "authors" => "Eltun",
+        "mentor" => "Done "],
+    [
+        "title" => "Transport ",
+        "authors" => "Aziz , Sema",
+        "mentor" => "Done "],
+    [
+        "title" => "Meet  Abbas ",
+        "authors" => "Idris ",
+        "mentor" => "Done"],
+    [
+        "authors" => "Xuldara "],
+    [
+        "title" => "Garage ",
+        "authors" => "Vali, Mehemmed ",
+        "mentor" => "Done"],
+    [
+        "title" => "Wishing trees ",
+        "authors" => "Gunel, Bahar",
+        "mentor" => "Done"],
+    [
+        "title" => "On my way home",
+        "authors" => "Tural",
+        "mentor" => "Done"],
+    [
+        "title" => "Dogs ",
+        "authors" => "Ayxan , Kenan ",
+        "mentor" => "Done"]
+];;
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -91,14 +130,15 @@
                 Interactive
             </header>
             <?php foreach ($list as $key => $item): ?>
+                <?php if (key_exists('url', $item) AND $item['url'] !== ''):?>
                 <div class="col-xs-10 col-md-8 offset-md-2 blockDesign blockDesign<?php echo $key % 4 + 1; ?>">
                     <div class="parent">
-                        <div class="introImg" style="background-image:url(<?php echo 'images/' . $item['img']; ?>);">
+                        <div class="introImg" style="background-image:url(<?php echo 'images/' . $item['image']; ?>);">
                             <div class="hoverLayer"></div>
                         </div>
                         <div class="introText">
                             <article>
-                                <h1><a href="" target="_blank"><?php echo $item['title']; ?></a></h1>
+                                <h1><a href="<?php echo $item['url'];?>" target="_blank"><?php echo $item['title']; ?></a></h1>
                                 <br>
                                 <p><?php echo $item['description']; ?></p>
                             </article>
@@ -107,6 +147,7 @@
                     <h4 class="authors"><?php echo $item['authors']; ?></h4>
                     <div class="animationBox"></div>
                 </div>
+                <?php endif;?>
             <?php endforeach; ?>
         </div>
     </div>
