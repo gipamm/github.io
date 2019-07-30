@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82b3e8a5-2124-49ae-86f9-321a35ec817c" name="Default Changelist" comment="" />
+    <list default="true" id="82b3e8a5-2124-49ae-86f9-321a35ec817c" name="Default Changelist" comment="Generate index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/0400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/0400.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3954.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/3954.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5677.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/5677.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/671.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/671.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/677.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/677.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/7702.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/7702.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/9679.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/9679.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/landscape.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/landscape.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/p1160286.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/p1160286.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/power-of-hand.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/power-of-hand.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/the-bee-keeper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/the-bee-keeper.jpg" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -34,8 +47,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="106" column="76" selection-start-line="106" selection-start-column="76" selection-end-line="106" selection-end-column="76" />
+            <state>
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,8 +59,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="281">
+              <caret line="90" column="77" selection-start-line="90" selection-start-column="77" selection-end-line="90" selection-end-column="77" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,6 +92,7 @@
       <find>url()</find>
       <find>onclick=&quot;&quot;</find>
       <find>&quot;img&quot; =&gt; &quot;&quot;,</find>
+      <find>JPG</find>
     </findStrings>
     <replaceStrings>
       <replace>a href=\&quot;\&quot;</replace>
@@ -74,6 +100,7 @@
       <replace>\n</replace>
       <replace>url(images/landscape.jpg)</replace>
       <replace>&quot;img&quot; =&gt; &quot;landscape.jpg&quot;,</replace>
+      <replace>jpg</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -154,7 +181,7 @@
       <workItem from="1564394518716" duration="5608000" />
       <workItem from="1564405740667" duration="1777000" />
       <workItem from="1564498898163" duration="68000" />
-      <workItem from="1564508654127" duration="1407000" />
+      <workItem from="1564508654127" duration="3581000" />
     </task>
     <task id="LOCAL-00001" summary="Add index.html">
       <created>1564509402023</created>
@@ -163,11 +190,32 @@
       <option name="project" value="LOCAL" />
       <updated>1564509402023</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Remove index.html">
+      <created>1564510245996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564510245996</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add index.html">
+      <created>1564510346193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564510346193</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Generate index.html">
+      <created>1564511802638</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564511802638</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8860000" />
+    <option name="totallyTimeSpent" value="11034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="29" width="1924" height="1029" extended-state="6" />
@@ -198,8 +246,10 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Remove index.html" />
     <MESSAGE value="Add index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add index.html" />
+    <MESSAGE value="Generate index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generate index.html" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/nc/Newscafe_files/Layout.css">
@@ -231,15 +281,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="106" column="76" selection-start-line="106" selection-start-column="76" selection-end-line="106" selection-end-column="76" />
+        <state>
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="281">
+          <caret line="90" column="77" selection-start-line="90" selection-start-column="77" selection-end-line="90" selection-end-column="77" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
